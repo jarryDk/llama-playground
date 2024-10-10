@@ -1,4 +1,5 @@
 = llama playground
 
 - https://github.com/mukel/llama3.java
- https://github.com/tjake/Jlama
+- https://github.com/tjake/Jlama
+- https://github.com/langchain4j/langchain4j-examples
