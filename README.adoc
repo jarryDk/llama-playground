@@ -5,3 +5,4 @@
 - https://github.com/langchain4j/langchain4j-examples
 - https://dplatz.de/blog/2024/langchain4j-ollama.html
 - https://docs.quarkiverse.io/quarkus-langchain4j/dev/ollama.html
+- http://gitlab.openshot.org/public-projects/creature-chat
